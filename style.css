@@ -1,0 +1,14 @@
+body {
+	font-family: Arial;
+	font-size: 16px;
+	line-height: 1.5;
+	
+	background-color: #ff851b;
+	color: #333333;
+}
+
+/* remove gap on the bottom */
+canvas {
+  vertical-align: bottom;
+}
+
